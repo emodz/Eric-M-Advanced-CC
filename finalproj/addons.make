@@ -1,0 +1,6 @@
+ofxCv
+ofxFft
+ofxGui
+ofxKinect
+ofxOpenCv
+ofxReactionDiffusion
